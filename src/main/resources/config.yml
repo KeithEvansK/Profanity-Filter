@@ -1,0 +1,6 @@
+#config.yml
+
+badwords:
+  - "word1"
+  - "word2"
+  - "word3"

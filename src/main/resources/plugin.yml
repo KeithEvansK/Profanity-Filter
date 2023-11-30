@@ -1,0 +1,4 @@
+name: profanityFilter
+version: '${project.version}'
+main: com.playatdark.profanityfilter.ProfanityFilter
+api-version: '1.20'

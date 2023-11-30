@@ -1,0 +1,4 @@
+name: profanityFilter
+version: '1.0-SNAPSHOT'
+main: com.playatdark.profanityfilter.ProfanityFilter
+api-version: '1.20'
